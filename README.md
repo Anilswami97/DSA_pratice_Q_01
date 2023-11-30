@@ -27,4 +27,4 @@ here **x-b** is equal to **a** and **a** is equal to **x-b** so in this way if t
 
 **So,** that's why in **single loop** in **map** we will set the **umap[x-b]** as key and provide it **1** as value and if **umap[a]** is equal to 1 then it's mean we got both these values.
 
-### Becuae x-b == a;
+### Because x-b == a;
